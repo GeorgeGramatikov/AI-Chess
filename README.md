@@ -1,4 +1,4 @@
-# AI-Chess
+# Aritifical Intelligence(Chess)
 Player vs AI (Chess Match)
   -> Special Moves <-
     - Castling
@@ -7,4 +7,4 @@ Player vs AI (Chess Match)
     - Check
     - Checkmate
     - Stalemate
-Using Minimax Algorithm with Alpha-Beta Pruning -> An AI algorithm for two player games lto calculate the most optimal move for the current player.
+Using Minimax Algorithm with Alpha-Beta Pruning -> An AI algorithm for two player games to calculate the most optimal move for the current player.
